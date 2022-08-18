@@ -12,7 +12,7 @@
    [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/msadikov2001) 
    
    # GitHub Stats:
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanmayujiro0-b&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhab-b&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
    
    ## codewars profile:
    [![codewars](https://www.codewars.com/users/Joseph111/badges/large)](https://www.codewars.com/users/Joseph111)
